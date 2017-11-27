@@ -576,7 +576,13 @@ transition:.2s ease;
 		margin:10px 0 0 0;
 	}
 	.footer_btn{
-		display:none;
+		border:none;
+		width:140px;
+		border-radius:40px;
+		background:#12B07E;
+		padding:5px;
+		font-size:17px;
+		margin:0 0 2px 14px;
 	}
 	.footer_btn1{
 		border:none;
