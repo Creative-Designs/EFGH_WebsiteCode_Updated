@@ -1,0 +1,242 @@
+@font-face{
+	font-family:'feature_font';
+	src:url('assets/fonts/Cicle Semi.ttf');	
+}
+.banner_img_business{
+	background:url('img/doctor_banner.jpg') no-repeat;
+	height:370px;
+	margin:-10px 0 0 0;
+
+
+}
+
+.white_part{
+	padding:0 10px 20px 10px;
+}
+.key_head{
+	color:#1A7FB5;
+font-family:'Century Gothic';  
+font-weight:bold;
+font-size:26px;
+	
+}
+.key_para{
+	color:#3E3E3E;
+	margin:0 0 30px 0;
+	
+}
+.key_para1{
+	color:#3E3E3E;
+	padding:10px 0 0 0;
+	
+}
+.white_icon{
+	margin:30px auto!important;
+
+}
+/*==============join_part===============*/
+.join_part{
+	background:#1A7FB5;
+	margin:8px 0 0 20px;
+	width:465px;
+	padding:0 0 0 0;
+}
+.join_head{
+	margin:20px;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+}
+/*=============form part=============*/
+.form_head{
+	color:#676767;
+	font-size:24px;
+	font-weight:bold;
+	margin:20px 0 20px 0;
+}
+.control_style{
+	height:46px;
+	margin:0 0 0 5px;
+}
+.login_btn_style{
+	border-radius:0!important;
+	background:#1A7FB5!important;
+	border:none;
+	width:200px;
+	height:50px;
+	font-size:18px;
+}
+.see_btn{
+	background:#1A7FB5!important;
+	border:none;
+	border-radius:0;
+	margin:20px 0 0 0;
+	width:200px;
+	height:50px;
+	font-size:18px;
+	
+}
+
+/*==================media query===============*/
+@media screen and (min-width:100px) and (max-width:480px){
+	
+	.new_join_btn{
+		border-radius:0!important;
+		width:100%!important;
+		height:55px!important;
+		margin:0!important;
+		font-size:18px;
+	}
+	.footer_btn_part1{
+		padding:0!important;
+		background:#fff!important;
+		width:360px!important;
+	}
+	
+	
+	
+	.banner_img_business{
+	background:url('img/doctor_banner_mob1.jpg') no-repeat;
+	height:300px;
+	margin:10px 0 0 0;
+
+}
+	
+	
+.white_part{
+	padding:5px 10px 20px 10px;
+}
+.key_head{
+	color:#1A7FB5;
+font-family:'Century Gothic';
+font-weight:bold;
+font-size:26px;
+	
+}
+.key_para{
+	color:#3E3E3E;
+	
+}
+.white_icon{
+	margin:10px auto!important;
+
+}
+/*==============join_part===============*/
+.join_part{
+	background:#1A7FB5;
+	margin:0 0 0 0;
+	width:400px;
+	padding:10px 0 10px 5px;
+}
+.join_head{
+	
+		margin:0 50px 0 0;
+	color:#fff;
+	font-size:16px;
+	font-weight:bold;
+}
+/*=============form part=============*/
+.form_head{
+	color:#676767;
+	font-size:18px;
+	font-weight:bold;
+	margin:5px 0 5px 0;
+}
+.control_style{
+	height:46px;
+	margin:0 0 0 5px;
+}
+.login_btn_style{
+	border-radius:0!important;
+	width:150px;
+	height:50px;
+	
+	font-size:18px;
+}
+	
+	
+	
+}
+@media screen and (min-width:481px) and (max-width:767px){
+	.new_join_btn{
+		display:none;
+	}
+	.footer_btn_part1{
+		display:none;
+	}
+	.banner_img_business{
+	background:url('img/doctor_banner.jpg') no-repeat;
+	height:380px;
+	margin:-22px 0 0 0;
+
+}
+.join_part{
+		margin:0 0 0 0;
+	width:auto;
+	padding:10px 0 10px 5px;
+}
+}
+/*=============media query ipad============*/
+@media screen and (min-width:768px) and (max-width:992px){
+	.banner_img_business{
+	background:url('img/doctor_banner.jpg') no-repeat!important;
+	height:370px;
+	margin:-10px 0 0 0;
+
+}
+	
+.white_part{
+	padding:5px 10px 20px 10px;
+}
+.key_head{
+	color:#1A7FB5;
+font-family:'Century Gothic';
+font-weight:bold;
+font-size:26px;
+	
+}
+.key_para{
+	color:#3E3E3E;
+	
+}
+.white_icon{
+	margin:10px auto!important;
+
+}
+/*==============join_part===============*/
+.join_part{
+	background:#1A7FB5;
+	margin:20px 0 0 0;
+	width:auto;
+	padding:10px 0 10px 5px;
+}
+.join_head{
+	
+	margin:0 10px 0 0;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+}
+/*=============form part=============*/
+.form_head{
+	color:#676767;
+	font-size:18px;
+	font-weight:bold;
+	margin:5px 0 5px 0;
+}
+.control_style{
+	height:46px;
+	margin:0 0 0 5px;
+}
+.login_btn_style{
+	border-radius:0!important;
+	width:150px;
+	height:50px;
+	
+	font-size:18px;
+}
+	
+	}
+
+
+
