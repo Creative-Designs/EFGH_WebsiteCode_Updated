@@ -176,15 +176,7 @@ $(".read_less_about").click(function(){
 	$(".read_more_about").show();
 });
 
-//====chat button click===
 
-$("#chat_btn").click(function()
-{
-	alert("Hello");
-	var Tawk_API=Tawk_API||{};
-	Tawk_API.popup();
-	
-});
 
 
 
