@@ -176,10 +176,5 @@ $(".read_less_about").click(function(){
 	$(".read_more_about").show();
 });
 
-
-
-
-
-
   
 });
