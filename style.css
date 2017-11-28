@@ -313,6 +313,10 @@ margin:10px 20px 0 0;
 	margin:70px 0 0 70px;
 }
 /*===================Speciality===============*/
+.speciality_class{
+	margin:30px 0 20px 0 !important;
+}
+
 .Speciality_box{
 	background:#272626;
 	padding:50px 80px 20px 80px;
@@ -382,7 +386,12 @@ margin:10px 20px 0 0;
 	margin:0 15px 60px 15px;
 	line-height:26px;
 }
-/*====================speck para ==============*/
+
+/*====about============*/
+.about_class{
+	margin:30px 0 20px 0 !important;
+}
+/*====================speak para ==============*/
 .Speak_part{
 	padding:50px 10px 0 0;
 }
@@ -437,7 +446,7 @@ margin:10px 20px 0 0;
 	border-radius:3px;
 	background:#0290b3;
 	height:45px;
-	margin:30px 0 0 20px;
+	margin:10px 0 0 20px;
 	color:#fff;
 	transition:.2s ease;
 }
@@ -531,6 +540,9 @@ transition:.2s ease;
 .footer_link{
 	font-size:12px;
 	margin:10px 0 0 0;
+}
+.read_less_about{
+	background:#91D16E!important;
 }
 .less_health{
 	background:#91D16E!important;
@@ -2357,6 +2369,9 @@ transition:.2s ease;
 }
 .footer_btn_part{
 	display:none;
+}
+.read_less_about{
+	background:#91D16E!important;
 }
 .less_health{
 	background:#91D16E!important;
