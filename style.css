@@ -232,8 +232,7 @@ margin:10px 20px 0 0;
 }
 .active_para{
 	font-size:18px;	
-	color:#484848;
-	line-height:30px;
+	color:#484848;	
 	margin:40px 0 0 50px;
 }
 
@@ -275,7 +274,7 @@ margin:10px 20px 0 0;
 .heart_para{
 	color:#ffffff;
 	font-size:16px;
-	line-height:30px;
+	line-height:26px;
 	margin:40px 0 0 0;
 }
 /*================feature part=================*/
@@ -390,7 +389,7 @@ margin:10px 20px 0 0;
 .speak_head{
 	font-size:40px;
 	color:#484848;
-	margin:30px 0 30px 0;
+	margin:30px 0 0 0;
 	font-family:'Century Gothic';
 	font-weight:bold;
 }
@@ -429,7 +428,7 @@ margin:10px 20px 0 0;
 	color:#242424;
 	margin:20px;
 	padding:0 10px 0 0;
-	line-height:34px;
+	line-height:28px;
 	
 }
 .about_btn{
@@ -479,7 +478,7 @@ transition:.2s ease;
 .footer_part{
 	background:#272626;
 	margin:0 0 0 0;
-	padding:50px 0 50px 0;
+	padding:20px 0 20px 0;
 
 }
 .footer_img{
@@ -488,15 +487,20 @@ transition:.2s ease;
 }
 .footer_text{
 	color:#fff;
-	font-size:16px;
+	font-size:14px;
 	margin:0 80px 0 0;
-	line-height:30px;
+	line-height:26px;
 	
 }
 .link_para{
-	font-size:28px;
+	font-size:26px;
 	color:#fff;
 	margin:30px 0 0 0;
+}
+.contact_para{
+	font-size:26px;
+	color:#fff;
+	margin:30px 0 0 8px;
 }
 .link_li{
 	font-size:15px;
@@ -507,12 +511,12 @@ transition:.2s ease;
 	margin:0 0 0 0;
 }
 .link_para_two{
-	font-size:19px;
+	font-size:17px;
 	color:#fff;
-	margin:20px 0 20px 0;
+	margin:10px 0 10px 10px;
 }
 .footer_icon{
-	margin:20px 20px 30px 0;
+	margin:20px 10px 30px 10px;
 	color:#0ECDAD;
 	transition:1s ease;
 	cursor:pointer;
@@ -524,6 +528,10 @@ transition:.2s ease;
 .footer_btn_part{
 	display:none;
 }
+.footer_link{
+	font-size:12px;
+	margin:10px 0 0 0;
+}
 .less_health{
 	background:#91D16E!important;
 }
@@ -533,6 +541,7 @@ transition:.2s ease;
 .less_woman{
 	background:#91D16E!important;
 }
+
 
 
 

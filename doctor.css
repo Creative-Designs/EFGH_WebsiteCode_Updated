@@ -2,6 +2,18 @@
 	font-family:'feature_font';
 	src:url('assets/fonts/Cicle Semi.ttf');	
 }
+.save_head{
+	font-size:17px;
+	color:#26D1B9;
+	font-weight:bold;
+	text-align:center!important;
+}
+.save_head1{
+	font-size:16px;
+	color:#26D1B9;
+	font-weight:bold;
+	text-align:center!important;
+}
 .banner_img_business{
 	background:url('img/doctor_banner.jpg') no-repeat;
 	height:370px;
@@ -114,6 +126,7 @@ font-size:26px;
 	
 }
 .key_para{
+	margin:15px 0 0 5px;
 	color:#3E3E3E;
 	
 }
