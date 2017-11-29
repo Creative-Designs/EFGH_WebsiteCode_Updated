@@ -612,7 +612,7 @@ transition:.2s ease;
 		border-radius:40px;
 		background:#128EB0;
 		padding:5px;
-		margin:0 0 2px 0;
+		margin:0 0 2px 20px;
 		
 	}
 	.need_para{
@@ -779,7 +779,7 @@ margin:0 0 0 0!important;
 .heart_icon1{
 	float:left;
 	width:70px!important;
-	margin:60px 20px 30px 10px ;
+	margin:30px 20px 30px 10px ;
 }
 .heart_icon2{
 	float:left;
